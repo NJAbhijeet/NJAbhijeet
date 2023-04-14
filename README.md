@@ -11,3 +11,5 @@
 <a href="https://github.com/NJAbhijeet">
   <img align="left" alt="Abhijeet's Github" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/github.png" />
 </a>
+
+ <img align="right" alt="GIF" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Web_dev.gif" width="500" height="450" />
