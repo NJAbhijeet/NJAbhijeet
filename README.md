@@ -20,6 +20,15 @@ Hi, I am NJ Abhijeet.
 I am a passionate backend developer building robust and scalable websites using Laravel. Some of my skills are in Laravel, MySQL amd Eloquent Models with a focus on database management and optimization. Well Experienced in implementing secure authentication, performing operations and writing clean, efficient and understandable code. Always eager to learn and grow, consistently focused on delivering high-quality websites. 
 
 Languages :
-<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/html.png" title="OpenCV"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/html.png" title="HTML"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/css.png" title="CSS"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/laravel.png" title="Laravel"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png" title="MYSQL"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/javascript.png" title="MYSQL"></code>
+
+
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/html.png" title="HTML"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/html.png" title="HTML"></code>
+
  
 
