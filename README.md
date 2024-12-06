@@ -13,3 +13,10 @@
 </a>
 
  <img align="right" alt="GIF" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Web_dev.gif" width="500" height="450" />
+
+<br />
+
+Hi, I am NJ Abhijeet.
+I am a passionate backend developer building robust and scalable websites using Laravel. Some of my skills are in Laravel, MySQL amd Eloquent Models with a focus on database management and optimization. Well Experienced in implementing secure authentication, performing operations and writing clean, efficient and understandable code. Always eager to learn and grow, consistently focused on delivering high-quality websites. 
+
+
