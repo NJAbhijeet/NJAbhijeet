@@ -24,7 +24,7 @@ Programming Languages :
 <code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/css.png" title="CSS"></code>
 <code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/laravel.png" title="Laravel"></code>
 <code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png" title="MYSQL"></code>
-<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/javascript.png" title="JS"></code>
+<code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Javascript.png" title="JS"></code>
 
 Version Control;
 <code><img height="20" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/bitbucket.png" title="BitBucket"></code>
