@@ -25,7 +25,7 @@ Programming Languages :
 <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/laravel.png" title="Laravel"></code>
 <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Javascript.png" title="JS"></code>
 
-Version Control;
+Version Control :
 <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/bitbucket.png" title="BitBucket"></code>
 
 Tools Used :
