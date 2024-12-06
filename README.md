@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/njabhijeet/">
-  <img align="left" alt="Abhijeet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhijeet's LinkedIN" width="22px" src="https://www.svgrepo.com/svg/303299/linkedin-icon-2-logo" />
 </a>
 
 <a href="abhijaya8@gmail.com">
