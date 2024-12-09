@@ -1,37 +1,50 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://www.linkedin.com/in/njabhijeet/">
-  <img align="left" alt="Abhijeet's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <img align="left" alt="Abhijeet's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
-<a href="abhijaya8@gmail.com">
-  <img align="left" alt="Abhijeet's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png" />
+<a href="mailto:abhijaya8@gmail.com">
+  <img align="left" alt="Abhijeet's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png?raw=true" />
 </a>
 
 <a href="https://github.com/NJAbhijeet">
-  <img align="left" alt="Abhijeet's Github" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/github.png" />
+  <img align="left" alt="Abhijeet's GitHub" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/github.png?raw=true" />
 </a>
 
- <img align="right" alt="GIF" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Web_dev.gif" width="500" height="450" />
+<img align="right" alt="GIF" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Web_dev.gif?raw=true" width="500" height="450" />
 
 <br />
 
-Hi, I am NJ Abhijeet.
-I am a passionate backend developer building robust and scalable websites using Laravel. Some of my skills are in Laravel, MySQL amd Eloquent Models with a focus on database management and optimization. Well Experienced in implementing secure authentication, performing operations and writing clean, efficient and understandable code. Always eager to learn and grow, consistently focused on delivering high-quality websites. 
+# Hi, I'm NJ Abhijeet 👋
 
-Programming Languages :
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/html.png" title="HTML"></code>
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/css.png" title="CSS"></code>
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/laravel.png" title="Laravel"></code>
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/Javascript.png" title="JS"></code>
+I'm a passionate backend developer specializing in **building robust and scalable websites** with **Laravel**. I thrive on creating efficient systems with a focus on **database management** and **optimization**.
 
-Version Control :
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/bitbucket.png" title="BitBucket"></code>
+## 🚀 Skills & Expertise
+- **Backend Development:** Laravel, MySQL, Eloquent Models
+- **Frontend:** HTML, CSS, JavaScript
+- **Database Management:** MySQL, Database Optimization
+- **Version Control:** Git, BitBucket
+- **Authentication:** Secure Authentication & Authorization
 
-Tools Used :
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/visual.png" title="VSC"></code>
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/xampp.png" title="Xampp"></code>
+## 🔧 Tools & Technologies
 
-Database Used :
-<code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png" title="MYSQL"></code>
+- **Version Control:**
+  <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/bitbucket.png?raw=true" title="BitBucket"></code>
+  
+- **Development Tools:**
+  <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/visual.png?raw=true" title="Visual Studio Code"></code>
+  <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/xampp.png?raw=true" title="XAMPP"></code>
+  
+- **Databases:**
+  <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png?raw=true" title="MySQL"></code>
 
+## 📈 GitHub Stats
+![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NJAbhijeet&show_icons=true&hide_title=true&hide=prs)
+
+## 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/njabhijeet/)
+- [Gmail](mailto:abhijaya8@gmail.com)
+- [GitHub](https://github.com/NJAbhijeet)
+
+---
+
+I'm always eager to learn new things and grow. I focus on **delivering high-quality, secure, and efficient websites**. Looking forward to connecting with like-minded individuals and contributing to amazing projects!
