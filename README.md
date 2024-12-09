@@ -16,14 +16,14 @@
 
 # Hi, I'm NJ Abhijeet 👋
 
-I'm a passionate backend developer specializing in **building robust and scalable websites** with **Laravel**. I thrive on creating efficient systems with a focus on **database management** and **optimization**.
+Passionate about backend development, specializing in building scalable and efficient websites using Laravel. Strongly prefer creating robust systems with regard to performance and database optimization-
 
 ## 🚀 Skills & Expertise
 - **Backend Development:** Laravel, MySQL, Eloquent Models
 - **Frontend:** HTML, CSS, JavaScript
 - **Database Management:** MySQL, Database Optimization
 - **Version Control:** Git, BitBucket
-- **Authentication:** Secure Authentication & Authorization
+- **Authentication:** Secure Authentication & Authorization, PhonePe payment gateway
 
 ## 🔧 Tools & Technologies
 
