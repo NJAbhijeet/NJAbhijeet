@@ -1,4 +1,3 @@
-Lets Connect :-
 <a href="https://www.linkedin.com/in/njabhijeet/">
   <img align="left" alt="Abhijeet's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
