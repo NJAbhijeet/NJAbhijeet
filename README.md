@@ -37,9 +37,6 @@ I'm a passionate backend developer specializing in **building robust and scalabl
 - **Databases:**
   <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png?raw=true" title="MySQL"></code>
 
-## 📈 GitHub Stats
-![Abhijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NJAbhijeet&show_icons=true&hide_title=true&hide=prs)
-
 ## 💬 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/njabhijeet/)
 - [Gmail](mailto:abhijaya8@gmail.com)
