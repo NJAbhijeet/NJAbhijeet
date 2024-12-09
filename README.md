@@ -1,3 +1,4 @@
+Lets Connect :-
 <a href="https://www.linkedin.com/in/njabhijeet/">
   <img align="left" alt="Abhijeet's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
@@ -37,11 +38,6 @@ I'm a passionate backend developer specializing in **building robust and scalabl
 - **Databases:**
   <code><img height="30" src="https://github.com/NJAbhijeet/NJAbhijeet/blob/master/assets/mysql.png?raw=true" title="MySQL"></code>
 
-## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/njabhijeet/)
-- [Gmail](mailto:abhijaya8@gmail.com)
-- [GitHub](https://github.com/NJAbhijeet)
 
----
 
 I'm always eager to learn new things and grow. I focus on **delivering high-quality, secure, and efficient websites**. Looking forward to connecting with like-minded individuals and contributing to amazing projects!
